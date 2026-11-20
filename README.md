@@ -12,6 +12,6 @@
 - [mtp一键脚本（新）-带流量分配功能](https://github.com/jyucoeng/singbox-tools/blob/main/README-mtp-new.md)
 - [mtp一键脚本（旧版）](https://github.com/jyucoeng/singbox-tools/blob/main/README-mtp-old.md)
 
-- 本项目修改为 jyucoeng/singbox-tools 的命令生成辅助界面，仅供学习交流。
+- 本项目修改为 jyucoeng/singbox-tools 的命令生成辅助界面，脚本功能与版权归原项目所有，仅供学习交流。
 - 节点上报合并服务：jyucoeng/sub_merge（⑧ 节点上报的接收端，把各机器上报的节点汇总成一份订阅）
 - 节点上报的汇聚订阅搭建教程：https://guide-sub-merge.dingdang.de5.net/
