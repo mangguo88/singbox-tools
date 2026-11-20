@@ -1,6 +1,8 @@
 #  singbox一键安装脚本、socks5一键脚本、mtp一键脚本
 
-> 在线体验：https://singbox.dingdang.de5.net/
+> 在线体验：https://singbox-tools.pages.dev/
+>
+> 部署教程：[DEPLOY.md](DEPLOY.md)（Fork 后用 Cloudflare Pages 免费部署成自己的面板）
 
 ## 请点击跳转对应的readme
 
