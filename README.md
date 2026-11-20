@@ -3,6 +3,8 @@
 > 在线体验：https://singbox.lele88.pp.ua
 >
 > 部署教程：[DEPLOY.md](DEPLOY.md)（Fork 后用 Cloudflare Pages 免费部署成自己的面板）
+>
+> ![PixPin_2026-11-20_19-52-57.png](https://tuchuang-260328-cloudflare-imgbed.pages.dev/file/1795175703760_PixPin_2026-11-20_19-52-57.png)
 
 ## 请点击跳转对应的readme
 
